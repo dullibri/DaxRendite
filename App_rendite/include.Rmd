@@ -1,0 +1,19 @@
+---
+title: "Was bringt eine Anlage in den DAX"
+author: "Dirk Ulbricht, institut für finanzdienstleistungen"
+date: "7 März 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<!-- ## Risiko und Rendite bei einer Anlage in den DAX -->
+Das wird aus jedem angelegten Euro im Durchschnitt bei einer monatlichen Anlage in den DAX. 
+
+Die Ergebnisse sind preisbereinigt, d.h. der Wertverlust des Geldes ist berücksichtigt.
+
+Die Risikoleiste zeigt, wieviel Prozent jemals seit 1954 bei einer monatlichen Anlage überhaupt an Wert verloren haben.
+<!-- This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>. -->
+
